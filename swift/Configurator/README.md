@@ -8,4 +8,6 @@ Configurator is an Application to demonstrate multiple configurations for debug,
 4. Different API configurations for each environment.
 5. Different Bundle Identifier, thus different Apps for each environment.
 
- ![enter image description here](https://github.com/manish-d/ios-portfolio/blob/main/swift/Configurator/apps.png)
+     <img src="https://github.com/manish-d/ios-portfolio/blob/main/swift/Configurator/apps.png"/>
+ 
+  <img src="https://github.com/manish-d/ios-portfolio/blob/main/swift/Configurator/debug.png" width="300" height="600" /> <img src="https://github.com/manish-d/ios-portfolio/blob/main/swift/Configurator/staging.png" width="300" height="600" />  <img src="https://github.com/manish-d/ios-portfolio/blob/main/swift/Configurator/release.png" width="300" height="600" />

@@ -1,0 +1,13 @@
+//
+//  debug.xcconfig
+//  Configurator
+//
+//  Created by Manish on 01/07/21.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+#include "Base.xcconfig"
+
+APP_NAME = $(inherited)_Staging
+ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon.staging

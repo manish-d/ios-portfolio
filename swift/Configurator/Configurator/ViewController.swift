@@ -9,9 +9,17 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBOutlet weak var lblAPIEndpoint: UILabel!
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        
+        self.evaluateAPIEndpoint()
+    }
+    
+    private func evaluateAPIEndpoint() {
+        let endpoint = API.baseURL ?? URL(string: "")
+        lblAPIEndpoint.text = endpoint?.absoluteString
     }
 
 

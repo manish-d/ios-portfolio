@@ -11,3 +11,4 @@
 
 APP_NAME = $(inherited)_Debug
 ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon.debug
+API_BASE_URL = api.debug.configurator.com

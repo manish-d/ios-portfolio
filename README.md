@@ -10,4 +10,4 @@
  1. [WeSplit](https://github.com/manish-d/ios-portfolio/tree/main/swiftui/projects/WeSplit) - App for splitting bills and calculating tip.
 
 ### [Swift Playgrounds](https://github.com/manish-d/ios-portfolio/tree/main/swift-playgrounds)
-1. Defer
+1. [Defer](https://github.com/manish-d/ios-portfolio/tree/main/swift-playgrounds/Defer) - A small experiment to understand the execution flow of defer statements

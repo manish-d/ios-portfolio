@@ -1,20 +1,20 @@
 # Defer
 
-A small experiment to understand the execution flow of defer statements
+### A small experiment to understand the execution flow of defer statements
 
-Output:
+**Output:**
 
-Between one and two
+`Between one and two`
 
-a statement
+`a statement`
 
-a computed
+`a computed`
 
-testDefer
+`testDefer`
 
-Two
+`Two`
 
-One
+`One`
 
-Half
+`Half`
 

@@ -8,3 +8,6 @@
 ### [SwiftUI](https://github.com/manish-d/ios-portfolio/tree/main/swiftui)
 
  1. [WeSplit](https://github.com/manish-d/ios-portfolio/tree/main/swiftui/projects/WeSplit) - App for splitting bills and calculating tip.
+
+### [Swift Playgrounds](https://github.com/manish-d/ios-portfolio/tree/main/swift-playgrounds)
+1. Defer
